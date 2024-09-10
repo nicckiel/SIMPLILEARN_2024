@@ -1,0 +1,10 @@
+INDEX VERSION 1.134+C:\Users\asus tuf\SIMPLILEARN_2024\COURSE_05\JFSD_API_Endpoints_Communication\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+435840705.index
+217047792.index
+2518448736.index
+761207800.index
+3596003403.index
+2133065287.index
+3822174663.index
+4124368797.index
